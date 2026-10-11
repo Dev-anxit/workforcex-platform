@@ -1,0 +1,85 @@
+reference_no,company_name,job_title,min_experience,avg_salary,min_salary,max_salary,num_of_jobs
+7834,TCS,Data Scientist,2,7.8L,4.5L,16.0L,841
+7862,Accenture,Data Scientist,2,12.8L,5.8L,23.0L,501
+5925,IBM,Data Scientist,2,13.4L,5.3L,25.0L,394
+7578,Cognizant,Data Scientist,2,9.8L,5.0L,18.0L,318
+7177,Capgemini,Data Scientist,2,8.6L,4.8L,14.6L,300
+4018,Infosys,Data Scientist,2,9.3L,4.5L,24.0L,228
+8562,Wipro,Data Scientist,2,9.7L,4.5L,18.2L,225
+6212,Tech Mahindra,Data Scientist,2,7.6L,4.1L,15.4L,218
+8334,Fractal Analytics,Data Scientist,2,15.9L,10.0L,23.0L,166
+3930,Deloitte,Data Scientist,2,14.2L,7.0L,25.0L,163
+5436,Ericsson,Data Scientist,3,14.6L,6.0L,26.9L,152
+7445,HCL Technologies,Data Scientist,2,9.8L,4.5L,20.3L,152
+4215,Amazon,Data Scientist,2,28.1L,9.5L,50.0L,140
+8777,UnitedHealth,Data Scientist,2,14.8L,8.3L,21.5L,120
+1347,Mu Sigma,Data Scientist,1,7.4L,5.0L,12.0L,116
+3097,Ab Inbev,Data Scientist,2,20.6L,15.0L,26.2L,116
+1322,L&T Infotech,Data Scientist,2,11.6L,6.5L,20.9L,102
+3990,Tiger Analytics,Data Scientist,2,14.8L,9.0L,20.0L,102
+8847,Optum,Data Scientist,2,16.6L,11.0L,22.5L,101
+3700,Ernst & Young,Data Scientist,2,12.4L,6.7L,20.0L,96
+8732,Mindtree,Data Scientist,2,10.6L,4.8L,18.7L,94
+5837,Walmart,Data Scientist,2,28.3L,17.8L,41.0L,85
+4163,DXC Technology,Data Scientist,2,10.0L,4.4L,15.5L,83
+1769,Microsoft Corporation,Data Scientist,1,32.1L,13.0L,60.0L,81
+3026,Genpact,Data Scientist,2,12.2L,5.5L,20.0L,74
+6255,Hewlett-Packard Enterprise,Data Scientist,2,16.6L,7.1L,26.5L,70
+8658,Ford Motor,Data Scientist,2,14.4L,10.0L,20.0L,64
+7508,Reliance jio,Data Scientist,1,15.6L,5.6L,30.0L,61
+6502,Verizon,Data Scientist,3,14.2L,9.9L,21.8L,58
+2075,IQVIA,Data Scientist,2,11.4L,6.9L,22.0L,58
+4991,TCS,Business Analyst,2,6.9L,3.0L,12.0L,4200
+5052,Accenture,Business Analyst,1,7.0L,2.7L,14.7L,1900
+4079,Genpact,Business Analyst,1,6.4L,4.5L,9.0L,1700
+2938,Wipro,Business Analyst,2,8.6L,4.2L,15.5L,1200
+8747,Cognizant,Business Analyst,1,8.6L,4.5L,14.0L,1100
+2705,Deloitte,Business Analyst,1,7.8L,5.0L,12.0L,991
+5065,HCL Technologies,Business Analyst,1,6.6L,2.3L,14.2L,714
+6400,Evalueserve,Business Analyst,1,6.5L,4.7L,8.5L,693
+5084,Infosys,Business Analyst,1,8.9L,4.4L,16.5L,692
+3139,IBM,Business Analyst,2,8.3L,4.0L,16.0L,662
+1525,TCS,Data Analyst,1,4.7L,2.4L,8.9L,1600
+5783,Cognizant,Data Analyst,1,5.5L,2.9L,8.3L,1200
+3384,Accenture,Data Analyst,1,5.2L,2.3L,11.0L,1100
+3229,Capgemini,Data Analyst,0,4.6L,3.0L,9.0L,485
+3865,Wipro,Data Analyst,1,4.8L,2.2L,9.0L,475
+4313,GlobalLogic,Data Analyst,1,2.5L,2.0L,3.5L,415
+5403,TCS,Data Engineer,1,5.8L,3.9L,10.1L,819
+5985,IBM,Data Engineer,1,10.4L,4.8L,18.0L,727
+6440,L&T Infotech,Data Engineer,1,5.7L,4.1L,9.0L,420
+1403,Accenture,Data Engineer,1,9.0L,5.0L,16.8L,332
+8967,Cognizant,Data Engineer,1,7.5L,4.5L,13.3L,292
+3793,EC-Mobility,Data Engineer,1,2.1L,1.8L,2.6L,259
+4299,Capgemini,Data Engineer,1,7.4L,4.0L,13.5L,231
+8920,Infosys,Data Engineer,1,5.5L,3.6L,10.0L,196
+8265,Fractal Analytics,Data Engineer,2,11.8L,8.0L,18.0L,184
+2453,Wipro,Data Engineer,1,6.6L,4.0L,14.5L,175
+4637,Accenture,Senior Data Scientist,3,18.9L,10.5L,30.5L,80
+6847,TCS,Senior Data Scientist,4,16.7L,8.6L,30.0L,79
+8996,Cognizant,Senior Data Scientist,4,17.9L,12.0L,25.2L,57
+5663,Fractal Analytics,Senior Data Scientist,4,25.6L,18.0L,32.0L,47
+6528,Ab Inbev,Senior Data Scientist,3,28.0L,22.0L,35.0L,44
+1748,Wipro,Senior Data Scientist,4,16.1L,8.0L,30.0L,43
+3314,TCS,Senior Business Analyst,3,7.7L,3.5L,14.0L,1100
+5537,Accenture,Senior Business Analyst,3,10.3L,5.5L,15.4L,1100
+5680,Evalueserve,Senior Business Analyst,2,9.8L,7.1L,13.8L,1000
+2340,Cognizant,Senior Business Analyst,2,13.9L,9.0L,18.7L,616
+3264,HCL Technologies,Senior Business Analyst,4,11.9L,6.4L,18.5L,384
+8501,Accenture,Senior Data Analyst,3,9.9L,6.5L,14.6L,213
+6459,Capgemini,Senior Data Analyst,1,4.7L,3.8L,7.1L,129
+3846,TCS,Senior Data Analyst,3,6.0L,2.9L,11.2L,118
+1105,Unilog Content Solutions ( P),Senior Data Analyst,3,3.2L,2.8L,3.8L,110
+7697,Cognizant,Senior Data Analyst,2,6.2L,3.0L,15.2L,109
+1261,L&T Infotech,Senior Data Engineer,2,11.0L,6.0L,17.0L,729
+6075,Quantiphi Analytics Solutions,Senior Data Engineer,2,15.0L,9.5L,22.5L,137
+3355,IBM,Senior Data Engineer,3,16.9L,10.0L,25.0L,112
+2019,Maersk,Senior Data Engineer,5,21.1L,13.4L,31.0L,110
+8730,TCS,Machine Learning Engineer,1,5.8L,4.0L,9.3L,193
+7970,Quantiphi Analytics Solutions,Machine Learning Engineer,1,11.2L,7.4L,15.0L,174
+3670,Accenture,Machine Learning Engineer,2,9.9L,5.4L,15.2L,61
+5039,Wipro,Machine Learning Engineer,1,5.9L,3.5L,13.0L,45
+6274,Accenture,Data Architect,8,24.6L,15.8L,33.0L,55
+6618,TCS,Data Architect,8,19.9L,13.0L,30.0L,49
+2337,Fiserv,Data Architect,3,11.2L,8.4L,18.4L,47
+2022,IBM,Data Architect,10,19.6L,13.5L,29.0L,44

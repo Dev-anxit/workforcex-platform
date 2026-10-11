@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ROLE001", "name": "Manual QA Engineer", "description": "Executes manual tests, documents bugs, and ensures software quality.",
+    "tasks": ["Manual test execution", "Debugging", "Documentation"],
+    "requiredSkills": ["Testing", "Debugging", "SDLC", "Documentation"],
+    "emergingSkills": ["Python", "Selenium", "CI/CD", "AI-assisted testing"],
+    "aiExposure": "High", "possibleTransitionRoles": ["ROLE002", "ROLE005"]
+  },
+  {
+    "id": "ROLE002", "name": "Automation QA Engineer", "description": "Develops and maintains automated test scripts.",
+    "tasks": ["Automation oversight", "AI-assisted testing", "Test script creation"],
+    "requiredSkills": ["Testing", "Debugging", "Python", "Selenium", "CI/CD"],
+    "emergingSkills": ["AI testing tools", "DevSecOps"],
+    "aiExposure": "Medium", "possibleTransitionRoles": ["ROLE003"]
+  },
+  {
+    "id": "ROLE003", "name": "Software Engineer", "description": "Develops software applications and systems.",
+    "tasks": ["Coding", "System design", "Debugging"],
+    "requiredSkills": ["Python", "JavaScript", "Debugging", "SDLC", "System Design"],
+    "emergingSkills": ["AI pair programming", "Cloud architecture", "LLM integration"],
+    "aiExposure": "High", "possibleTransitionRoles": ["ROLE004"]
+  },
+  {
+    "id": "ROLE004", "name": "AI Engineer", "description": "Builds and integrates AI models into applications.",
+    "tasks": ["Model fine-tuning", "LLM integration", "Data pipeline creation"],
+    "requiredSkills": ["Python", "Machine Learning", "System Design", "Cloud architecture", "LLM integration"],
+    "emergingSkills": ["Agentic AI", "Model evaluation"],
+    "aiExposure": "Low", "possibleTransitionRoles": []
+  },
+  {
+    "id": "ROLE005", "name": "Data Analyst", "description": "Analyzes data to provide actionable business insights.",
+    "tasks": ["Data extraction", "Reporting", "Visualization"],
+    "requiredSkills": ["SQL", "Excel", "Tableau", "Data Analysis"],
+    "emergingSkills": ["Python", "Machine Learning", "Predictive Analytics"],
+    "aiExposure": "High", "possibleTransitionRoles": ["ROLE006"]
+  },
+  {
+    "id": "ROLE006", "name": "AI/BI Analyst", "description": "Uses AI tools to derive advanced business intelligence.",
+    "tasks": ["Predictive modeling", "AI-driven reporting", "Data Analysis"],
+    "requiredSkills": ["SQL", "Python", "Machine Learning", "Tableau", "Predictive Analytics"],
+    "emergingSkills": ["Causal Inference", "Deep Learning"],
+    "aiExposure": "Medium", "possibleTransitionRoles": []
+  },
+  {
+    "id": "ROLE007", "name": "Business Analyst", "description": "Gathers requirements and analyzes business processes.",
+    "tasks": ["Requirements gathering", "Process modeling", "Stakeholder communication"],
+    "requiredSkills": ["Requirements Gathering", "Documentation", "Jira", "Stakeholder Management", "Data Analysis"],
+    "emergingSkills": ["AI requirement generation", "Process Mining"],
+    "aiExposure": "Medium", "possibleTransitionRoles": ["ROLE008"]
+  },
+  {
+    "id": "ROLE008", "name": "Product Manager", "description": "Owns product strategy, roadmap, and execution.",
+    "tasks": ["Roadmap planning", "User interviews", "Feature prioritization"],
+    "requiredSkills": ["Product Strategy", "Agile", "Stakeholder Management", "Data Analysis", "Documentation"],
+    "emergingSkills": ["AI Product Strategy", "Data-driven prioritization"],
+    "aiExposure": "Low", "possibleTransitionRoles": []
+  },
+  {
+    "id": "ROLE009", "name": "Developer", "description": "Builds web or software components.",
+    "tasks": ["UI development", "API integration", "Bug fixing"],
+    "requiredSkills": ["JavaScript", "React", "Node.js", "Debugging"],
+    "emergingSkills": ["AI pair programming", "Full-stack capabilities"],
+    "aiExposure": "High", "possibleTransitionRoles": ["ROLE003"]
+  }
+]

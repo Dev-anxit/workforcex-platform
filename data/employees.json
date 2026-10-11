@@ -1,0 +1,82 @@
+[
+  {
+    "id": "EMP001", "name": "Rahul Sharma", "role": "Manual QA Engineer", "department": "Engineering", "experience": 3,
+    "skills": [{ "name": "Testing", "level": 4 }, { "name": "Debugging", "level": 3 }, { "name": "SDLC", "level": 4 }, { "name": "Documentation", "level": 4 }]
+  },
+  {
+    "id": "EMP002", "name": "Sarah Jenkins", "role": "Software Engineer", "department": "Engineering", "experience": 5,
+    "skills": [{ "name": "Python", "level": 4 }, { "name": "JavaScript", "level": 4 }, { "name": "Debugging", "level": 5 }, { "name": "System Design", "level": 4 }, { "name": "SDLC", "level": 4 }]
+  },
+  {
+    "id": "EMP003", "name": "David Chen", "role": "Data Analyst", "department": "Data", "experience": 2,
+    "skills": [{ "name": "SQL", "level": 4 }, { "name": "Excel", "level": 5 }, { "name": "Tableau", "level": 3 }, { "name": "Data Analysis", "level": 4 }]
+  },
+  {
+    "id": "EMP004", "name": "Elena Rodriguez", "role": "Business Analyst", "department": "Product", "experience": 6,
+    "skills": [{ "name": "Requirements Gathering", "level": 5 }, { "name": "Documentation", "level": 4 }, { "name": "Jira", "level": 4 }, { "name": "Stakeholder Management", "level": 5 }]
+  },
+  {
+    "id": "EMP005", "name": "Michael Chang", "role": "Automation QA Engineer", "department": "Engineering", "experience": 4,
+    "skills": [{ "name": "Testing", "level": 5 }, { "name": "Python", "level": 3 }, { "name": "Selenium", "level": 4 }, { "name": "CI/CD", "level": 3 }, { "name": "Debugging", "level": 4 }]
+  },
+  {
+    "id": "EMP006", "name": "Priya Patel", "role": "AI Engineer", "department": "Data", "experience": 3,
+    "skills": [{ "name": "Python", "level": 5 }, { "name": "Machine Learning", "level": 4 }, { "name": "LLM integration", "level": 3 }, { "name": "Cloud architecture", "level": 4 }, { "name": "System Design", "level": 3 }]
+  },
+  {
+    "id": "EMP007", "name": "James Wilson", "role": "Product Manager", "department": "Product", "experience": 8,
+    "skills": [{ "name": "Product Strategy", "level": 5 }, { "name": "Agile", "level": 5 }, { "name": "Stakeholder Management", "level": 4 }, { "name": "Data Analysis", "level": 3 }]
+  },
+  {
+    "id": "EMP008", "name": "Lisa Wang", "role": "Software Engineer", "department": "Engineering", "experience": 2,
+    "skills": [{ "name": "JavaScript", "level": 4 }, { "name": "React", "level": 3 }, { "name": "Debugging", "level": 3 }, { "name": "SDLC", "level": 3 }]
+  },
+  {
+    "id": "EMP009", "name": "Robert Taylor", "role": "Data Analyst", "department": "Data", "experience": 5,
+    "skills": [{ "name": "SQL", "level": 5 }, { "name": "Python", "level": 3 }, { "name": "Data Analysis", "level": 5 }, { "name": "PowerBI", "level": 4 }]
+  },
+  {
+    "id": "EMP010", "name": "Anita Desai", "role": "AI/BI Analyst", "department": "Data", "experience": 4,
+    "skills": [{ "name": "SQL", "level": 5 }, { "name": "Python", "level": 4 }, { "name": "Machine Learning", "level": 3 }, { "name": "Tableau", "level": 4 }, { "name": "Predictive Analytics", "level": 3 }]
+  },
+  {
+    "id": "EMP011", "name": "Tom Harris", "role": "Manual QA Engineer", "department": "Engineering", "experience": 1,
+    "skills": [{ "name": "Testing", "level": 3 }, { "name": "Documentation", "level": 3 }, { "name": "SDLC", "level": 2 }]
+  },
+  {
+    "id": "EMP012", "name": "Sophia Martinez", "role": "Software Engineer", "department": "Engineering", "experience": 7,
+    "skills": [{ "name": "Python", "level": 5 }, { "name": "System Design", "level": 5 }, { "name": "Cloud architecture", "level": 4 }, { "name": "Machine Learning", "level": 2 }]
+  },
+  {
+    "id": "EMP013", "name": "Wei Chen", "role": "Developer", "department": "Engineering", "experience": 3,
+    "skills": [{ "name": "JavaScript", "level": 4 }, { "name": "React", "level": 4 }, { "name": "Node.js", "level": 3 }]
+  },
+  {
+    "id": "EMP014", "name": "Emma Brown", "role": "Business Analyst", "department": "Product", "experience": 4,
+    "skills": [{ "name": "Requirements Gathering", "level": 4 }, { "name": "Data Analysis", "level": 3 }, { "name": "Stakeholder Management", "level": 4 }]
+  },
+  {
+    "id": "EMP015", "name": "Omar Farooq", "role": "Automation QA Engineer", "department": "Engineering", "experience": 6,
+    "skills": [{ "name": "Testing", "level": 5 }, { "name": "Selenium", "level": 5 }, { "name": "Python", "level": 4 }, { "name": "CI/CD", "level": 4 }]
+  },
+  {
+    "id": "EMP016", "name": "Chloe Davies", "role": "Data Analyst", "department": "Data", "experience": 1,
+    "skills": [{ "name": "SQL", "level": 3 }, { "name": "Excel", "level": 4 }]
+  },
+  {
+    "id": "EMP017", "name": "Lucas Silva", "role": "AI Engineer", "department": "Data", "experience": 5,
+    "skills": [{ "name": "Python", "level": 5 }, { "name": "Machine Learning", "level": 5 }, { "name": "Cloud architecture", "level": 4 }, { "name": "LLM integration", "level": 4 }, { "name": "Agentic AI", "level": 3 }]
+  },
+  {
+    "id": "EMP018", "name": "Aisha Khan", "role": "Product Manager", "department": "Product", "experience": 3,
+    "skills": [{ "name": "Product Strategy", "level": 3 }, { "name": "Agile", "level": 4 }, { "name": "Data Analysis", "level": 4 }]
+  },
+  {
+    "id": "EMP019", "name": "Daniel Kim", "role": "Software Engineer", "department": "Engineering", "experience": 4,
+    "skills": [{ "name": "Python", "level": 4 }, { "name": "JavaScript", "level": 3 }, { "name": "System Design", "level": 3 }]
+  },
+  {
+    "id": "EMP020", "name": "Mia Johnson", "role": "Developer", "department": "Engineering", "experience": 2,
+    "skills": [{ "name": "Python", "level": 3 }, { "name": "React", "level": 3 }, { "name": "Debugging", "level": 4 }]
+  }
+]

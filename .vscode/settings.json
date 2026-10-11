@@ -1,0 +1,7 @@
+{
+  "css.validate": false,
+  "css.lint.unknownAtRules": "ignore",
+  "less.validate": false,
+  "scss.validate": false,
+  "tailwindCSS.emmetCompletions": true
+}
